@@ -1,1 +1,1 @@
-// JS placeholder
+// JS logic placeholder for SurVis

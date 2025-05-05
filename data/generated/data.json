@@ -1,1 +1,6 @@
-{}
+{
+  "papers": [
+    {"id": "sample1", "title": "Sample Paper A", "authors": "Author X"},
+    {"id": "sample2", "title": "Sample Paper B", "authors": "Author Y"}
+  ]
+}
